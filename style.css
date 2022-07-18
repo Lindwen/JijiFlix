@@ -6,6 +6,10 @@ font-family: 'Quicksand', sans-serif;
 font-size: 20px;
 }
 
+.pageTitleWithDefaultLogo {
+background-image: url(https://static.wikia.nocookie.net/kikis-delivery-service/images/6/67/Jiji.png);
+}
+
 /* Hide Cast Icon from Header */
 .headerCastButton { display: none; }
 
