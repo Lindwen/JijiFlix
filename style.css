@@ -10,11 +10,11 @@ font-size: 20px;
 background-image: url(https://static.wikia.nocookie.net/kikis-delivery-service/images/6/67/Jiji.png);
 }
 
-/* Hide Cast Icon from Header */
+/* Hide Cast Icon from Header 
 .headerCastButton { display: none; }
-
-/* Hide Sync Icon from Header */
+Hide Sync Icon from Header
 .headerSyncButton { display: none; }
+*/
 
 /* Minimalistic Login Page */
 /* Narrow the login form */
